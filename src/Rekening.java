@@ -13,4 +13,30 @@ public class Rekening {
         return saldo;
     }
 
+    public boolean setor(int jumlah) {
+        if (jumlah <= 0) {
+            return false;
+        }
+
+        saldo += jumlah;
+        return true;
+    }
+
+    public boolean tarik(int jumlah) {
+        if (jumlah <= 0 || jumlah > saldo) {
+            return false;
+        }
+
+        saldo -= jumlah;
+        return true;
+    }
+
+    private void cetakInfo() {
+        System.out.printf("%s | %s | Rp%,d%n",
+                nomor, pemilik, saldo);
+    }
+
+    public void tampilkanInfo() {
+        cetakInfo();
+    }
 }

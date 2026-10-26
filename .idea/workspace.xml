@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11deccc7-80d5-4ea5-9a13-a4ae6bf0566c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pbo-2582012-praktikum-rekening-bank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankMini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rekening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rekening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rekening.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
